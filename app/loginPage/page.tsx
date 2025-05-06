@@ -10,7 +10,7 @@ export default function login() {
         placeholder="Enter your name"
         className="input input-bordered mt-6 w-full max-w-xs"
       />
-      <Link href="/chat" className="btn btn-primary mt-6">
+      <Link href="/chatroomPage" className="btn btn-primary mt-6">
         Join
       </Link>
     </div>

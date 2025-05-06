@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex h-screen flex-col items-center justify-center">
       <p className="text-5xl font-bold">Welcome user</p>
-      <Link href="/login" className="btn btn-primary mt-6">
+      <Link href="/loginPage" className="btn btn-primary mt-6">
         Login
       </Link>
     </div>
